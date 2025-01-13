@@ -5,13 +5,13 @@ project:
     port: 3333
 
 website:
-  title: "MUSA 550"
+  title: "Varun Bhakri"
   page-footer:
     left: "vbhakhri@upenn.edu"
     right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
 
   sidebar:
-    logo: "images/course-icon.png"
+    logo: "images/vb.jpg"
     pinned: true
     align: center
     tools:
