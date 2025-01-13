@@ -7,7 +7,7 @@ project:
 website:
   title: "MUSA 550"
   page-footer:
-    left: "delmelle@gmail.com"
+    left: "vbhakhri@upenn.edu"
     right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
 
   sidebar:
